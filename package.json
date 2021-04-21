@@ -1,0 +1,17 @@
+{
+    "name": "nodemongo",
+    "version": "1.0.0",
+    "description": "",
+    "main": "connectMongo.js",
+    "scripts": {
+        "start": "nodemon connectMongo.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "dotenv": "^8.2.0",
+        "express": "^4.17.1",
+        "mongoose": "^5.12.5",
+        "nodemon": "^2.0.7"
+    }
+}
